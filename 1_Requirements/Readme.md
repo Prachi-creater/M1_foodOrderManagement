@@ -40,7 +40,7 @@ The user can choose from the availability of the dishes that are displayed on th
 - Presenting a new simple project containing large numbers of menu data and different prices of each for bill calculations, yet a knowledgeable one for learning purposes. The users can change the features of this Mini food ordering system project as per their needs and requirements.
 ## SWOT ANALYSIS
 
-[SWOT-Sample](https://github.com/Prachi-creater/M1_foodOrderManagement/blob/master/1_Requirements/SWOT.png)
+! [SWOT-Sample](https://github.com/Prachi-creater/M1_foodOrderManagement/blob/master/1_Requirements/SWOT.png)
 
 
 # 4W's and 1'H
